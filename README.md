@@ -1,2 +1,2 @@
 # substructural_writeup
-Substructural Types write up
+Write up on Substructural types, Titled: "On using Substructural types for Static Information Flow Analysis"
