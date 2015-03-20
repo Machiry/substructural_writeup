@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: substructural_writeup.aux
+The style file: plain.bst
+Database file #1: bibliography1.bib
+Warning--to sort, need author or key in Wiki01
+Warning--to sort, need author or key in Write03
+Warning--to sort, need author or key in bnf
+Warning--to sort, need author or key in rust
+Warning--to sort, need author or key in rustdoc
+Warning--to sort, need author or key in rustgit
+Warning--to sort, need author or key in laintgit
+Warning--can't use both volume and number fields in fahndrich2002adoption
+Warning--can't use both volume and number fields in foster2002flow
+Warning--can't use both volume and number fields in honda2002uniform
+Warning--can't use both volume and number fields in johnson2004finding
+Warning--can't use both volume and number fields in mazurak2010lolliproc
+Warning--empty journal in newsome2005dynamic
+You've used 18 entries,
+            2118 wiz_defined-function locations,
+            585 strings with 6434 characters,
+and the built_in function-call counts, 5010 in all, are:
+= -- 483
+> -- 194
+< -- 9
++ -- 81
+- -- 62
+* -- 312
+:= -- 758
+add.period$ -- 50
+call.type$ -- 18
+change.case$ -- 82
+chr.to.int$ -- 0
+cite$ -- 31
+duplicate$ -- 207
+empty$ -- 457
+format.name$ -- 62
+if$ -- 1102
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 12
+newline$ -- 86
+num.names$ -- 22
+pop$ -- 126
+preamble$ -- 1
+purify$ -- 67
+quote$ -- 0
+skip$ -- 170
+stack$ -- 0
+substring$ -- 220
+swap$ -- 57
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 68
+warning$ -- 13
+while$ -- 37
+width$ -- 20
+write$ -- 176
+(There were 13 warnings)

@@ -1,0 +1,95 @@
+\begin{thebibliography}{10}
+
+\bibitem{bnf}
+{Backus–Naur Form}.
+\newblock \url{http://en.wikipedia.org/wiki/Backus-Naur_Form}.
+
+\bibitem{laintgit}
+{Laint Git}.
+\newblock \url{https://github.com/Machiry/myown_typechecker}.
+
+\bibitem{rustgit}
+{Rust Git}.
+\newblock \url{https://github.com/rust-lang/rust}.
+
+\bibitem{Write03}
+{Static Taint Analysis for C}.
+\newblock \url{https://code.google.com/p/tanalysis/}.
+
+\bibitem{rust}
+{The Rust Programming Language}.
+\newblock \url{http://www.rust-lang.org/}.
+
+\bibitem{rustdoc}
+{The Rust Programming Language Doc}.
+\newblock \url{http://doc.rust-lang.org/1.0.0-alpha.2/book/}.
+
+\bibitem{Wiki01}
+{Wikipedia}.
+\newblock \url{http://en.wikipedia.org/wiki/Data-flow_analysis}.
+
+\bibitem{enck2014taintdroid}
+William Enck, Peter Gilbert, Seungyeop Han, Vasant Tendulkar, Byung-Gon Chun,
+  Landon~P Cox, Jaeyeon Jung, Patrick McDaniel, and Anmol~N Sheth.
+\newblock Taintdroid: an information-flow tracking system for realtime privacy
+  monitoring on smartphones.
+\newblock {\em ACM Transactions on Computer Systems (TOCS)}, 32(2):5, 2014.
+
+\bibitem{fahndrich2002adoption}
+Manuel Fahndrich and Robert DeLine.
+\newblock Adoption and focus: Practical linear types for imperative
+  programming.
+\newblock In {\em ACM SIGPLAN Notices}, volume~37, pages 13--24. ACM, 2002.
+
+\bibitem{foster2002flow}
+Jeffrey~S Foster, Tachio Terauchi, and Alex Aiken.
+\newblock {\em Flow-sensitive type qualifiers}, volume~37.
+\newblock ACM, 2002.
+
+\bibitem{gay2010linear}
+Simon~J Gay and Vasco~T Vasconcelos.
+\newblock Linear type theory for asynchronous session types.
+\newblock {\em Journal of Functional Programming}, 20(01):19--50, 2010.
+
+\bibitem{honda2002uniform}
+Kohei Honda and Nobuko Yoshida.
+\newblock {\em A uniform type structure for secure information flow},
+  volume~37.
+\newblock ACM, 2002.
+
+\bibitem{johnson2004finding}
+Rob Johnson and David Wagner.
+\newblock Finding user/kernel pointer bugs with type inference.
+\newblock In {\em USENIX Security Symposium}, volume~2, page~0, 2004.
+
+\bibitem{kobayashi1999linearity}
+Naoki Kobayashi, Benjamin~C Pierce, and David~N Turner.
+\newblock Linearity and the pi-calculus.
+\newblock {\em ACM Transactions on Programming Languages and Systems (TOPLAS)},
+  21(5):914--947, 1999.
+
+\bibitem{mazurak2010lolliproc}
+Karl Mazurak and Steve Zdancewic.
+\newblock Lolliproc: to concurrency from classical linear logic via
+  curry-howard and control.
+\newblock In {\em ACM Sigplan Notices}, volume~45, pages 39--50. ACM, 2010.
+
+\bibitem{newsome2005dynamic}
+James Newsome and Dawn Song.
+\newblock Dynamic taint analysis for automatic detection, analysis, and
+  signature generation of exploits on commodity software.
+\newblock 2005.
+
+\bibitem{schwartz2010all}
+Edward~J Schwartz, Thanassis Avgerinos, and David Brumley.
+\newblock All you ever wanted to know about dynamic taint analysis and forward
+  symbolic execution (but might have been afraid to ask).
+\newblock In {\em Security and Privacy (SP), 2010 IEEE Symposium on}, pages
+  317--331. IEEE, 2010.
+
+\bibitem{tov2012practical}
+Jesse~A Tov.
+\newblock {\em Practical programming with substructural types}.
+\newblock PhD thesis, Northeastern University Boston, 2012.
+
+\end{thebibliography}

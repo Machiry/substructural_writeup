@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{Abstract}{}
+\BOOKMARK [1][-]{section.2}{Introduction}{}
+\BOOKMARK [1][-]{section.3}{Motivation}{}
+\BOOKMARK [1][-]{section.4}{Existing Work}{}
+\BOOKMARK [2][-]{subsection.4.1}{A Uniform Type Structure For Secure Information Flow}{section.4}
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Linear/Affine Typing}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Applicability to Taint Tracking}{subsection.4.1}
+\BOOKMARK [2][-]{subsection.4.2}{Asynchronous Types}{section.4}
+\BOOKMARK [2][-]{subsection.4.3}{Practical Substructural Types for Imperative Programs}{section.4}
+\BOOKMARK [1][-]{section.5}{Laint: Static Taint Tracking using Linear Types}{}
+\BOOKMARK [2][-]{subsubsection.5.0.1}{Default Types}{section.5}
+\BOOKMARK [3][-]{subsubsection.5.0.2}{Variable Declaration \(Taint Introduction\)}{subsubsection.5.0.1}
+\BOOKMARK [3][-]{subsubsection.5.0.3}{Binary Expression \(Taint Propagation\)}{subsubsection.5.0.1}
+\BOOKMARK [3][-]{subsubsection.5.0.4}{Assignment Expression \(Taint Propagation\)}{subsubsection.5.0.1}
+\BOOKMARK [3][-]{subsubsection.5.0.5}{Untainted Control \(Taint Policy\)}{subsubsection.5.0.1}
+\BOOKMARK [3][-]{subsubsection.5.0.6}{Function Definition evaluation \(Taint Propagation\)}{subsubsection.5.0.1}
+\BOOKMARK [3][-]{subsubsection.5.0.7}{Function Declaration evaluation \(Taint Propagation\)}{subsubsection.5.0.1}
+\BOOKMARK [3][-]{subsubsection.5.0.8}{Evaluating Sanitizer \(Taint Policy\)}{subsubsection.5.0.1}
+\BOOKMARK [3][-]{subsubsection.5.0.9}{Function call evaluation with untainted types \(Taint Propagation\) }{subsubsection.5.0.1}
+\BOOKMARK [3][-]{subsubsection.5.0.10}{Non Sanitizer evaluation with tainted types \(Taint Propagation\)}{subsubsection.5.0.1}
+\BOOKMARK [1][-]{section.6}{Appendix}{}
